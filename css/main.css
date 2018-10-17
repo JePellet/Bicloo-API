@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+body {
+  background-color: #666699;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive, sans-serif;
+  font-size: 5em;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+span {
+  background: #FFC30D;
+  color: black;
+}
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.display {
+  width: 15%;
+  margin: 10px;
+  text-align: left;
+  border-style: ridge;
+  border-width: medium;
+  border-color: black;
+  color: white;
+}
+
+.prop {
+  background: #FFC30D;
+  color: black;
+}
+
+.noBikes {
+  background: #FF0000;
+  color: white;
+}
